@@ -53,7 +53,7 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-            .img{
+            img{
                 width: 100px;
                 height: 100px;
                 border-radius: 50%;
@@ -80,7 +80,7 @@
                     <img src="{{('images/farabi.gif')}}">
                       <h3>لقمان</h3>
                         <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
-                     <p> <span>مشرق</span>نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل</p>
+                     <p> <span></span>نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل <span>مشرق</span></p>
                      <span>ستنطلق  قريبا</span>
                 </div>
 
