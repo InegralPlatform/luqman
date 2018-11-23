@@ -9,7 +9,7 @@
 
         <!-- Fonts -->
     
-        <link href="https://fonts.googleapis.com/css?family=Amiri:100,600" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/earlyaccess/amiri.css" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
         <style>
@@ -57,9 +57,14 @@
                 width: 100px;
                 height: 100px;
                 border-radius: 50%;
-                border: 2px solid #DB4B93;
+                border: 2px solid #000;
             }
-            
+            h3 ,p{
+                font-family: ‘Amiri’, serif;
+            }
+            p:nth-of-type(2), span{
+                font-size: 17px;
+            }
         </style>
     </head>
     <body>
@@ -80,7 +85,7 @@
                     <img src="{{('images/farabi.gif')}}">
                       <h3>لقمان</h3>
                         <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
-                     <p> <span></span>نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل <span>مشرق</span></p>
+                        <p> <span></span>نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل " <span>"مشرق</span></p>
                      <span>ستنطلق  قريبا</span>
                 </div>
 
