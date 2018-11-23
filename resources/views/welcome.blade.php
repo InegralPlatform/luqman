@@ -91,7 +91,7 @@
                 </div>
 
                <div class="footer">
-               <p> <?php  echo date("Y");?> <a href="https://iplatform.co"> المنصة المتكاملة</a> جميع حقوق العمل محفوظة لشركة لقمان التابعة   &copy; <br></p> 
+               <p> <?php  echo date("Y");?>  جميع حقوق العمل محفوظة لشركة لقمان التابعة  &copy; <a href="http://iplatform.co" tatarget="_blank"rget> المنصة المتكاملة</a> <br></p> 
                 </div>
                 
             </div>
