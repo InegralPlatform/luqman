@@ -57,7 +57,8 @@
                 width: 100px;
                 height: 100px;
                 border-radius: 50%;
-                border: 2px solid #000;
+                border: 1px solid #b3abab;
+                padding: 4px;
             }
             h3 ,p{
                 font-family: ‘Amiri’, serif;
@@ -89,7 +90,9 @@
                      <span>ستنطلق  قريبا</span>
                 </div>
 
-
+               <div class="footer">
+               <p>&copy; <?php  echo date("Y");?> جميع حقوق العمل محفوظة لشركة لقمان  .<br></p> 
+                </div>
                 
             </div>
         </div>
