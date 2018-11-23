@@ -46,17 +46,7 @@
             }
 
             .title {
-                font-size: 84px;
-            }
-
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 12px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
+                font-size: 28px;
             }
 
             .m-b-md {
@@ -79,15 +69,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
+
+                    <img src="{{('images/farabi.gif')}}">
                 <h3>لقمان</h3>
                 <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
                 </div>
 
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                   
-                </div>
+                
             </div>
         </div>
     </body>
