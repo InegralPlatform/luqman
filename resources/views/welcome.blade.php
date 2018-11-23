@@ -8,7 +8,8 @@
         <title>  لقمان</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+    
+        <link href="https://fonts.googleapis.com/css?family=Amiri:100,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
         <style>
@@ -48,10 +49,17 @@
             .title {
                 font-size: 28px;
             }
-
+     
             .m-b-md {
                 margin-bottom: 30px;
             }
+            .img{
+                width: 100px;
+                height: 100px;
+                border-radius: 50%;
+                border: 2px solid #DB4B93;
+            }
+            
         </style>
     </head>
     <body>
@@ -69,10 +77,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-
                     <img src="{{('images/farabi.gif')}}">
-                <h3>لقمان</h3>
-                <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
+                      <h3>لقمان</h3>
+                        <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
+                     <p> <span>مشرق</span>نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل</p>
+                     <span>ستنطلق  قريبا</span>
                 </div>
 
 
