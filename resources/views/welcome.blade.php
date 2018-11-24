@@ -13,7 +13,7 @@
 
         <!-- Styles -->
         <style>
-            html, body {
+            html, body ,a{
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
@@ -66,6 +66,10 @@
             p:nth-of-type(2), span{
                 font-size: 17px;
             }
+            a
+            {
+                text-decoration: none;
+            }
         </style>
     </head>
     <body>
@@ -91,7 +95,7 @@
                 </div>
 
                <div class="footer">
-               <p> <?php  echo date("Y");?>  جميع حقوق العمل محفوظة لشركة لقمان التابعة  &copy; <a href="http://iplatform.co" tatarget="_blank"rget> المنصة المتكاملة</a> <br></p> 
+               <p> <?php  echo date("Y");?> &copy; جميع حقوق العمل محفوظة لشركة لقمان التابعة   <a href="http://iplatform.co" tatarget="_blank"rget> المنصة المتكاملة</a> <br></p> 
                 </div>
                 
             </div>
