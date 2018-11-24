@@ -69,6 +69,7 @@
             a
             {
                 text-decoration: none;
+                font-weight: 600;
             }
         </style>
     </head>
@@ -95,7 +96,7 @@
                 </div>
 
                <div class="footer">
-               <p> <?php  echo date("Y");?> &copy; جميع حقوق العمل محفوظة لشركة لقمان التابعة   <a href="http://iplatform.co" tatarget="_blank"rget> المنصة المتكاملة</a> <br></p> 
+               <p> <?php  echo date("Y");?> &copy; جميع حقوق العمل محفوظة لشركة لقمان التابعة   <a href="http://iplatform.co" target="_blank"rget> المنصة المتكاملة</a> <br></p> 
                 </div>
                 
             </div>
