@@ -89,23 +89,24 @@
             <div class="content">
                 <div class="title m-b-md">
                 
-                     <span>ستنطلق  قريبا</span>
+                  
                     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{('images/farabi.gif')}}" alt="First slide">
+                                <a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D8%A7%D8%A8%D9%8A" taraget="_blank"><img class="" src="{{('images/farabi.gif')}}" alt="First slide"></a>
                                  </div>
                                 <div class="carousel-item">
-                                  <img class="d-block w-100" src="{{('images/razi.gif')}}" alt="Second slide">
+                                <a href="" taraget="_blank"> <img class="https://www.google.com.eg/search?q=%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%89&oq=%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%89&aqs=chrome..69i57.4343j0j4&sourceid=chrome&ie=UTF-8" src="{{('images/razi.gif')}}" alt="Second slide"><a>
                                 </div>
                                 <div class="carousel-item">
-                                  <img class="d-block w-100" src="{{('images/03-ahazen_large.jpg')}}" alt="Third slide">
+                                <a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85" taraget="_blank">  <img class="" src="{{('images/03-ahazen_large.jpg')}}" alt="Third slide"></a>
                             </div>
                         </div>
                     </div>
                     <h3>لقمان</h3>
                         <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
                         <p>"نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل مشرق"</p>
+                        <span>ستنطلق  قريبا</span>
                 </div>
 
                <div class="footer">
