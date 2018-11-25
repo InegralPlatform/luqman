@@ -10,7 +10,7 @@
         <!-- Fonts -->
     
         <link href="http://fonts.googleapis.com/earlyaccess/amiri.css" rel="stylesheet" type="text/css">
-
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <!-- Styles -->
         <style>
             html, body ,a{
@@ -88,11 +88,24 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="{{('images/farabi.gif')}}">
-                      <h3>لقمان</h3>
+                
+                     <span>ستنطلق  قريبا</span>
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100" src="{{('images/farabi.gif')}}" alt="First slide">
+                                 </div>
+                                <div class="carousel-item">
+                                  <img class="d-block w-100" src="{{('images/razi.gif')}}" alt="Second slide">
+                                </div>
+                                <div class="carousel-item">
+                                  <img class="d-block w-100" src="{{('images/03-ahazen_large.jpg')}}" alt="Third slide">
+                            </div>
+                        </div>
+                    </div>
+                    <h3>لقمان</h3>
                         <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
                         <p>"نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل مشرق"</p>
-                     <span>ستنطلق  قريبا</span>
                 </div>
 
                <div class="footer">
@@ -101,5 +114,8 @@
                 
             </div>
         </div>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     </body>
 </html>
