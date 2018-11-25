@@ -60,6 +60,10 @@
                 border: 1px solid #b3abab;
                 padding: 4px;
             }
+            img:hover
+            {
+                border: 2px solid #8e668d;
+            }
             h3 ,p{
                 font-family: ‘Amiri’, serif;
             }
@@ -104,13 +108,13 @@
                         </div>
                     </div>
                     <h3>لقمان</h3>
-                        <p> أول منصة عربية حقيقية فى الوطن العربى لتعليم عن بعد</p>
+                        <p> أول منصة عربية حقيقية فى الوطن العربى للتعليم عن بعد</p>
                         <p>"نتعلم من  أجل ان نعيد امجاد الماضى  لاجل مستقبل مشرق"</p>
                         <span>ستنطلق  قريبا</span>
                 </div>
 
                <div class="footer">
-               <p> <?php  echo date("Y");?> &copy; جميع حقوق العمل محفوظة لشركة لقمان التابعة   <a href="http://iplatform.co" target="_blank"rget> المنصة المتكاملة</a> <br></p> 
+               <p> <?php  echo date("Y");?> &copy; جميع حقوق العمل محفوظة لشركة لقمان التابعة   <a href="http://iplatform.co" target="_blank"rget> للالمنصة المتكاملة</a> <br></p> 
                 </div>
                 
             </div>
